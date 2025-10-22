@@ -1,3 +1,5 @@
 "Hello DevOps!" 
 "This is a new feature" 
 "This is a new feature" 
+"Learning Git step by step" 
+"This is Feature A" 
